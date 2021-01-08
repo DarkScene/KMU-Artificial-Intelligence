@@ -1,6 +1,5 @@
 # KMU-Artificial-Intelligence
-
-## 교내 실감응용인공지능 과목 실습 내용
+교내 실감응용인공지능 과목 실습 내용
  : DNN, CNN, RNN, LSTM, GRU 모델 구성과 Training 과정에 대한 실습
 
 ### 플립러닝 01 : 3차 다항식을 이용한 비선형 회귀함수 코드 작성
